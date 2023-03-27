@@ -10,7 +10,7 @@ const about = {
   role: 'Front End Engineer',
   description:
     'I want to find an opportunity to learn more experience, improve myself and look forward to helping with company’s professional activities, becoming an official long-term employee in your company.',
-  resume: 'https://drive.google.com/file/d/1UmaB6bAS1uZIy398jqbw1jemmPJkAKag/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1AX4FI2A3X76Zn0e4Ocr6M-RaUdsANdDc/view?usp=share_link',
   social: {
     linkedin: 'https://www.linkedin.com/in/vanthudkr/',
     github: 'https://github.com/vanthudkr',
